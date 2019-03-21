@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kevdougful.com</title>
+    <link>https://kevdougful.com/</link>
+    <description>Recent content on kevdougful.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kevdougful.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>intro</title>
+      <link>https://kevdougful.com/2016/09/30/intro/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevdougful.com/2016/09/30/intro/</guid>
+      <description>welcome to the machine I’ve been wanting to start writing and I’ve always thought writing a blog would be a fun way to do that. The freedom to write about anything is attractive to me as it seems like there’s always some kind of thought rambling around in my skull. Plus, it’s what all the cool kids do nowadays right?
+I sometimes worry that ideas I have aren’t able to reach full maturity when they live only in the hermetically sealed instance of my brain.</description>
+    </item>
+    
+  </channel>
+</rss>
